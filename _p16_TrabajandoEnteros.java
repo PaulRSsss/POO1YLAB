@@ -6,7 +6,7 @@ public class _p16_TrabajandoEnteros {
 
         int num1 = 150;
         int num2 = 0x2A;
-        int num3 = 0b00101010;
+        int num3 = 000101010;
         
         byte val1 = 120, val2 = 1;
         short horas = 24, dias = 9099;
