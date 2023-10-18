@@ -106,3 +106,70 @@
 - _p67_SumaRango
 - _p68_TablaMultiplicar
 - _p69_CalificaciónLetra
+
+## Actividad 12
+- _p70_MayorTresNumeros
+- _p71_SumarDigitos
+- _p72_SumaParesImpares
+- _p73_Factorial
+- _p74_CuadroCaracter
+
+## Práctica 5
+- _p75_NumeroMenor
+- _p76_MedidasLongitud
+- _p77_MedidasLongitud
+- _p78_SumaMultiplos
+- _p79_Angulo
+
+## Primer Examen Parcial
+- _p80_PrimerExamenParcial
+
+## Actividad 13
+- _p81_InicializaArreglosNumeros
+- _p82_InicializaArregloCadenas
+- _p83_InicializaNombresEdades
+- _p84_LeerArregloCalificaciones
+- _p85_NombresEdades
+
+## Actividad 14
+- _p86_ArregloMostrar
+- _p87_ArregloTemperaturas
+- _p88_Aleatorios
+- _p89_ArregloAleatorios
+
+## Práctica 6
+- _p90_Temperaturas
+- _p91_MayoresPromedio
+- _p92_MayorMenor
+- _p93_ParesImpares
+
+## Actividad 15
+- _94_Empleado01
+- _95_Empleado02
+- _96_Empleado03
+- _97_Empleado04
+
+## Práctica 7
+- _p98_Circulo
+- _p99_Rectangulo
+- _100_Artículo
+
+## Actividad 16
+- _p101_TrabajoPersona
+- _p102_AutorLibro
+- _p103_ClienteFactura
+
+## Práctica 8
+- _p104_PuntoCirculo
+- _p105_PuntoTriangulo
+
+## Actividad 17
+- _p106_Persona
+- _p107_Forma
+
+## Práctica 9
+- _p108_Vehiculo
+- _p109_FormaV2
+
+## Actividad 18
+- _p110_CuentaBancariaV1
