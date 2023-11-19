@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_p144_Temperaturas",
+            "request": "launch",
+            "mainClass": "_p144_Temperaturas",
+            "projectName": "POO1YLAB_9471eb1b"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
